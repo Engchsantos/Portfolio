@@ -138,7 +138,7 @@ with coln:
 with colo:
     st.image("./assets/wfj5.jpg", width=230)
 with colp:
-    st.image("./assets/wfj_final.jpg", width=230)
+    st.image("./assets/wfj5.jpg", width=230)
 
 st.markdown(
         "<p style='text-align: justify; color:gray; font-size:18px'>Nessa reforma, acompanhei a etapa de acabamento, montagem de marcenaria em todos os ambientes, automação residencial e instalação de equipamentos.</p>",  unsafe_allow_html=True
